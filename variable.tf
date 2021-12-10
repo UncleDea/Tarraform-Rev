@@ -1,4 +1,4 @@
-variable "data_bucket-tayim" {
-    type = any # the type will be detected automatically
-  
+variable "bucket_name" {
+  type = string
+
 }
